@@ -1,4 +1,6 @@
 ### Hi there 👋
+The repository contains most of my coding coursework, with code, report, and feedback.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JZ76&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats).  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JZ76)](https://github.com/anuraghazra/github-readme-stats)
