@@ -2,7 +2,6 @@
 The repository contains all of my coding coursework, with code, report, and feedback.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JZ76)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://stats.justsong.cn/api/leetcode?username=hopikoo&cn=true&theme=dark)](https://leetcode-cn.com/u/hopikoo/)
 
 <!--
